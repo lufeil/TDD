@@ -12,6 +12,7 @@
         <module>fizzbuzz01</module>
         <module>fizzbuzz02</module>
         <module>fizzbuzz03</module>
+        <module>fizzbuzz04</module>
     </modules>
 
     <dependencies>
